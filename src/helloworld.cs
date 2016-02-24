@@ -21,5 +21,7 @@ public class HelloGit
 		}
 		// comment by uthen (02/23/16)
 		Console.WriteLine("Done!!!!!");
+
+		// fixed code on branch (Uthen,02/24/2016)
 	}
 }

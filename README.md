@@ -1,2 +1,2 @@
 # learngit
-learnt
+Learning on GIT on Mycos team
